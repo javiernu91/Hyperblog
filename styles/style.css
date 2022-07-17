@@ -6,5 +6,18 @@
 body{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
+    padding: 0;
+    color:grey;
+}
+
+#container{
+    width: 70%;
+    padding: 1rem;
+    text-align: left;
+    border: 1px solid #000;
+    margin: 10px auto;
+}
+
+#container h1{
+    font-size: 70px;
 }
